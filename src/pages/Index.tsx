@@ -27,11 +27,11 @@ function Index() {
             }}
         >
             <Routes location={displayLocation}>
-                <Route path='/react-portfolio' element={<HomeAbout />} />
-                <Route path='/react-portfolio/projects' element={<Project />} />
-                <Route path='/react-portfolio/contact' element={<Contact />} />
-                <Route path='/react-portfolio/resume' element={<Resume />} />
-                <Route path='*' element={<Navigate to='/react-portfolio' />} />
+                <Route path='/typescript-portfolio' element={<HomeAbout />} />
+                <Route path='/typescript-portfolio/projects' element={<Project />} />
+                <Route path='/typescript-portfolio/contact' element={<Contact />} />
+                <Route path='/typescript-portfolio/resume' element={<Resume />} />
+                <Route path='*' element={<Navigate to='/typescript-portfolio' />} />
             </Routes>
         </div>
     )

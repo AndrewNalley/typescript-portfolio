@@ -13,7 +13,7 @@ const proj3Link = "https://andrewnalley.github.io/weather-dashboard/";
 const proj4Link = "https://2meng.github.io/Whos-that-pokemon/";
 const proj5Link = "https://github.com/AndrewNalley/logo-maker";
 const proj6Link = "https://aqueous-springs-29735-51eb1397bb8e.herokuapp.com/";
-const proj7Link = "https://github.com/AndrewNalley/react-portfolio";
+const proj7Link = "https://github.com/AndrewNalley/typescript-portfolio";
 
 
 function Portfolio() {
