@@ -18,7 +18,7 @@ Instead of being another applicant in the ocean of LinkedIn, this site will help
 
 ## Usage
 
-See the deployed application at: https://andrewnalley.github.io/typescript_portfolio/
+See the deployed application at: https://andrewnalley.github.io/typescript-portfolio/
 
 Click around and check out my stuff! I am happy with the work I have done and how far I have come. Check out the links at the bottom of the page, or download my resume on the resume page. 
 

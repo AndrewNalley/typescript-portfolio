@@ -1,6 +1,6 @@
 {
-  "name": "typescript_portfolio",
-  "homepage": "https://andrewnalley.github.io/typescript_portfolio",
+  "name": "typescript-portfolio",
+  "homepage": "https://andrewnalley.github.io/typescript-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
