@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2238624e.css",
-    "main.js": "/static/js/main.21d82588.js",
+    "main.js": "/static/js/main.b6debdaf.js",
     "static/js/787.32d943c3.chunk.js": "/static/js/787.32d943c3.chunk.js",
     "static/media/dreamscape.png": "/static/media/dreamscape.97ab06b9bef34fbff974.png",
     "static/media/pokemon-game.png": "/static/media/pokemon-game.993319806fc790935424.png",
@@ -21,11 +21,11 @@
     "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
     "index.html": "/index.html",
     "main.2238624e.css.map": "/static/css/main.2238624e.css.map",
-    "main.21d82588.js.map": "/static/js/main.21d82588.js.map",
+    "main.b6debdaf.js.map": "/static/js/main.b6debdaf.js.map",
     "787.32d943c3.chunk.js.map": "/static/js/787.32d943c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2238624e.css",
-    "static/js/main.21d82588.js"
+    "static/js/main.b6debdaf.js"
   ]
 }
