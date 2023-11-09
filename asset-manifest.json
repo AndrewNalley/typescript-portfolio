@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/typescript-portfolio/static/css/main.0e8df7fc.css",
-    "main.js": "/typescript-portfolio/static/js/main.ea502f29.js",
+    "main.js": "/typescript-portfolio/static/js/main.402dedd2.js",
     "static/js/787.32d943c3.chunk.js": "/typescript-portfolio/static/js/787.32d943c3.chunk.js",
     "static/media/dreamscape.png": "/typescript-portfolio/static/media/dreamscape.97ab06b9bef34fbff974.png",
     "static/media/pokemon-game.png": "/typescript-portfolio/static/media/pokemon-game.993319806fc790935424.png",
@@ -21,11 +21,11 @@
     "static/media/fa-v4compatibility.woff2": "/typescript-portfolio/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
     "index.html": "/typescript-portfolio/index.html",
     "main.0e8df7fc.css.map": "/typescript-portfolio/static/css/main.0e8df7fc.css.map",
-    "main.ea502f29.js.map": "/typescript-portfolio/static/js/main.ea502f29.js.map",
+    "main.402dedd2.js.map": "/typescript-portfolio/static/js/main.402dedd2.js.map",
     "787.32d943c3.chunk.js.map": "/typescript-portfolio/static/js/787.32d943c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e8df7fc.css",
-    "static/js/main.ea502f29.js"
+    "static/js/main.402dedd2.js"
   ]
 }
