@@ -6,9 +6,9 @@ function Resume() {
     // upload pdf to drive, share (accessible to all), then copy and paste the portion noted within both links below 
     // example: https://drive.google.com/file/d/ <copy-me> /view?usp=sharing
     // https://drive.google.com/file/d/14R9dm-UoTybKC9roQvpGy0tjZhoWHoyH/view?usp=drive_link
-    
-    const currentResPDF = 'https://drive.google.com/file/d/1flN7IJSgpthIjLR7frZRSYHgbkN8uK3A/preview';
-    const pdfDownloadLink = 'https://drive.google.com/uc?export=download&id=1flN7IJSgpthIjLR7frZRSYHgbkN8uK3A';
+    // 
+    const currentResPDF = 'https://drive.google.com/file/d/1wcovGHD7_wyXvWv1GG-inH0kffncupCf/preview';
+    const pdfDownloadLink = 'https://drive.google.com/uc?export=download&id=1wcovGHD7_wyXvWv1GG-inH0kffncupCf';
 
     return (
         <>
