@@ -1,5 +1,6 @@
-import React from 'react';
 import headshot from '../images/headshot_2023_focus.jpeg';
+import { LazyLoadImage } from 'react-lazy-load-image-component';
+import 'react-lazy-load-image-component/src/effects/blur.css';
 
 function HomeAbout() {
     return (
@@ -7,7 +8,11 @@ function HomeAbout() {
             <h4 className="heading-center">About Me</h4>
             <article className="grid">
                 <div id="img-div">
-                    <img className="headshot" src={headshot} alt='headshot' />
+                    <LazyLoadImage
+                    className='headshot'
+                    effect='blur'
+                    alt="headshot"
+                    src={headshot} />
                     <h4 className="heading-center">Andrew Nalley</h4>
                 </div>
                 <div>
