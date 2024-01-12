@@ -139,18 +139,17 @@ blockquote {
 }
 
 .emoji-large {
-  font-size: 5rem; /* Adjust the value to make the emoji larger or smaller */
+  font-size: 5rem; 
 }
 
 /* transition CSS */
 
-
 .fadeIn {
-  animation: 0.5s fadeIn forwards;
+  animation: 0.7s fadeIn forwards;
 }
 
 .fadeOut {
-  animation: 0.5s fadeOut forwards;
+  animation: 0.7s fadeOut forwards;
 }
 
 @keyframes fadeIn {
