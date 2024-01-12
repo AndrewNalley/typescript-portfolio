@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/typescript-portfolio/static/css/main.bf573f07.css",
-    "main.js": "/typescript-portfolio/static/js/main.b9ae5cde.js",
+    "main.css": "/typescript-portfolio/static/css/main.f3db115c.css",
+    "main.js": "/typescript-portfolio/static/js/main.788db8bf.js",
     "static/js/787.32d943c3.chunk.js": "/typescript-portfolio/static/js/787.32d943c3.chunk.js",
     "static/media/headshot_2023_focus.jpeg": "/typescript-portfolio/static/media/headshot_2023_focus.23008048a16d0971be47.jpeg",
     "static/media/dreamscape.png": "/typescript-portfolio/static/media/dreamscape.97ab06b9bef34fbff974.png",
@@ -9,10 +9,12 @@
     "static/media/fa-solid-900.ttf": "/typescript-portfolio/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
     "static/media/fa-brands-400.ttf": "/typescript-portfolio/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
     "static/media/fa-solid-900.woff2": "/typescript-portfolio/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/Dev_Resume.png": "/typescript-portfolio/static/media/Dev_Resume.fd4b42e6c5d7cc870180.png",
     "static/media/employee-tracker-photo.png": "/typescript-portfolio/static/media/employee-tracker-photo.73a121754a267410e7f4.png",
     "static/media/fa-brands-400.woff2": "/typescript-portfolio/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
     "static/media/weather-dashboard.png": "/typescript-portfolio/static/media/weather-dashboard.1a2d6c3ebdcbc0ef0984.png",
     "static/media/fa-regular-400.ttf": "/typescript-portfolio/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/Dev_Resume.pdf": "/typescript-portfolio/static/media/Dev_Resume.a67c5b70caca684eed14.pdf",
     "static/media/logo-maker.png": "/typescript-portfolio/static/media/logo-maker.a37c37fbe25040f549c0.png",
     "static/media/note-taker.png": "/typescript-portfolio/static/media/note-taker.159dd5d3533f3359a8b1.png",
     "static/media/portfolio.png": "/typescript-portfolio/static/media/portfolio.5777c03f9cb3c6211aec.png",
@@ -20,12 +22,12 @@
     "static/media/fa-v4compatibility.ttf": "/typescript-portfolio/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
     "static/media/fa-v4compatibility.woff2": "/typescript-portfolio/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
     "index.html": "/typescript-portfolio/index.html",
-    "main.bf573f07.css.map": "/typescript-portfolio/static/css/main.bf573f07.css.map",
-    "main.b9ae5cde.js.map": "/typescript-portfolio/static/js/main.b9ae5cde.js.map",
+    "main.f3db115c.css.map": "/typescript-portfolio/static/css/main.f3db115c.css.map",
+    "main.788db8bf.js.map": "/typescript-portfolio/static/js/main.788db8bf.js.map",
     "787.32d943c3.chunk.js.map": "/typescript-portfolio/static/js/787.32d943c3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf573f07.css",
-    "static/js/main.b9ae5cde.js"
+    "static/css/main.f3db115c.css",
+    "static/js/main.788db8bf.js"
   ]
 }
