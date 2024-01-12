@@ -25,7 +25,12 @@
   padding-top: 32px;
 }
 
-h1, h6 {
+h1 {
+  padding-top: 5%;
+  color: #fff;
+}
+
+h6 {
   margin: 32px 0;
   color: #fff;
   font-size: 24px;
@@ -35,6 +40,7 @@ h2 {
   margin: 0%;
   padding: 5%;
   color: #fff;
+  padding-bottom: 0%;
 }
 
 h3 {
@@ -46,6 +52,11 @@ h3 {
 h4 {
   margin-top: 5%;
   color: #fff;
+  border: solid ;
+  border-left: #11191f;
+  border-right: #11191f;
+  border-block-color: white;
+  border-width: 1px;
 }
 
 h5 {
@@ -58,6 +69,10 @@ p {
   font-family: sans-serif;
   color: #fff;
   text-align: center;
+}
+
+a {
+  padding: 5%;
 }
 
 .heading-center {
@@ -121,14 +136,16 @@ blockquote {
   color: #fff;
 }
 
-.iframe-container {
-  position: relative;
+.resume-container {
+  align-self: center;
   overflow: hidden;
   width: 100%;
-  padding-top: 90%; 
+  padding-top: 5%; 
+  padding-left: 5%;
+  padding-right: 5%;
 }
 
-.responsive-iframe {
+.responsive-resume {
   position: absolute;
   top: 0;
   left: 0;

@@ -51,8 +51,8 @@ const Contact = () => {
     };
 
     return (
-        <div className='container'>
-            <p className='heading-center'>Send me a message!</p>
+        <section className='container'>
+            <h4 className="heading-center">Send me a message!</h4>
             <form id='contact-form' onSubmit={handleSubmit(onSubmit)} noValidate>
                 <div className='row formRow'>
                     <div className='col-6'>
@@ -68,6 +68,7 @@ const Contact = () => {
                             })}
                             className='form-control formInput'
                             placeholder='Name'
+                            autoComplete='name'
                         ></input>
                         {errors.name && <span className='errorMessage'>{errors?.text?.message?.toString()}</span>}
                     </div>
@@ -81,6 +82,7 @@ const Contact = () => {
                             })}
                             className='form-control formInput'
                             placeholder='Email address'
+                            autoComplete='email'
                         ></input>
                         {errors.email && (
                             <span className='errorMessage'>Please enter a valid email address</span>
@@ -126,7 +128,7 @@ const Contact = () => {
                 </button>
             </form>
             <ToastContainer />
-        </div>
+        </section>
     );
 };
 

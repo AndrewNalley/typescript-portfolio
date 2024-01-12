@@ -19,11 +19,11 @@ const proj7Link = "https://github.com/AndrewNalley/typescript-portfolio";
 
 function Portfolio() {
     return (
-        <>
+        <section className="container">
             <h4 className='heading-center'>Portfolio</h4>
             <article className='grid'>
                 <a id='proj-1' href={proj1Link}>
-                    <h5>Dreamscape</h5>
+                    
                     <LazyLoadImage
                         className='proj-photo'
                         effect='blur'
@@ -32,7 +32,7 @@ function Portfolio() {
                     <h3>Create calming and inspirational environments</h3>
                 </a>
                 <a id='proj-2' href={proj2Link}>
-                    <h5>Employee Tracker</h5>
+                  
                     <LazyLoadImage
                         className='proj-photo'
                         effect='blur'
@@ -41,7 +41,6 @@ function Portfolio() {
                     <h3>Command-line employee tracking application</h3>
                 </a>
                 <a id='proj-3' href={proj3Link}>
-                    <h5>Weather Dashboard</h5>
                     <LazyLoadImage
                         className='proj-photo'
                         effect='blur'
@@ -52,7 +51,6 @@ function Portfolio() {
             </article>
             <article className='grid'>
                 <a id='proj-4' href={proj4Link}>
-                    <h5>Who's that Pokémon?!</h5>
                     <LazyLoadImage 
                     className='proj-photo' 
                     effect='blur' 
@@ -61,7 +59,6 @@ function Portfolio() {
                     <h3>Test your pokémon knowledge!</h3>
                 </a>
                 <a id='proj-5' href={proj5Link}>
-                    <h5>Logo Maker</h5>
                     <LazyLoadImage 
                     className='proj-photo' 
                     effect='blur' 
@@ -70,7 +67,6 @@ function Portfolio() {
                     <h3>Simple logos are so hot right now. Quickly generate an SVG logo!</h3>
                 </a>
                 <a id='proj-6' href={proj6Link}>
-                    <h5>Note Taker</h5>
                     <LazyLoadImage 
                     className='proj-photo' 
                     effect='blur' 
@@ -79,7 +75,6 @@ function Portfolio() {
                     <h3>Use to write and save notes</h3>
                 </a>
                 <a id='proj-7' href={proj7Link}>
-                    <h5>Portfolio Repository</h5>
                     <LazyLoadImage 
                     className='proj-photo' 
                     effect='blur' 
@@ -88,7 +83,7 @@ function Portfolio() {
                     <h3>See the code used for this webpage!</h3>
                 </a>
             </article>
-        </>
+        </section>
     )
 }
 
