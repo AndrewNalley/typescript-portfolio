@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/typescript-portfolio/static/css/main.0e8df7fc.css",
-    "main.js": "/typescript-portfolio/static/js/main.7d009714.js",
+    "main.css": "/typescript-portfolio/static/css/main.bf573f07.css",
+    "main.js": "/typescript-portfolio/static/js/main.b9ae5cde.js",
     "static/js/787.32d943c3.chunk.js": "/typescript-portfolio/static/js/787.32d943c3.chunk.js",
     "static/media/headshot_2023_focus.jpeg": "/typescript-portfolio/static/media/headshot_2023_focus.23008048a16d0971be47.jpeg",
     "static/media/dreamscape.png": "/typescript-portfolio/static/media/dreamscape.97ab06b9bef34fbff974.png",
@@ -20,12 +20,12 @@
     "static/media/fa-v4compatibility.ttf": "/typescript-portfolio/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
     "static/media/fa-v4compatibility.woff2": "/typescript-portfolio/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
     "index.html": "/typescript-portfolio/index.html",
-    "main.0e8df7fc.css.map": "/typescript-portfolio/static/css/main.0e8df7fc.css.map",
-    "main.7d009714.js.map": "/typescript-portfolio/static/js/main.7d009714.js.map",
+    "main.bf573f07.css.map": "/typescript-portfolio/static/css/main.bf573f07.css.map",
+    "main.b9ae5cde.js.map": "/typescript-portfolio/static/js/main.b9ae5cde.js.map",
     "787.32d943c3.chunk.js.map": "/typescript-portfolio/static/js/787.32d943c3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e8df7fc.css",
-    "static/js/main.7d009714.js"
+    "static/css/main.bf573f07.css",
+    "static/js/main.b9ae5cde.js"
   ]
 }
