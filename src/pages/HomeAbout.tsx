@@ -13,7 +13,7 @@ function HomeAbout() {
                     effect='blur'
                     alt="headshot"
                     src={headshot} />
-                    <h4 className="heading-center">Andrew Nalley</h4>
+                    <h3 className="heading-center">Andrew Nalley</h3>
                 </div>
                 <div>
                     <blockquote>I am a Full Stack Web Developer with a certificate from the University of Minnesota
