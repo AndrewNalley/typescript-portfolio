@@ -1,6 +1,6 @@
 import { LazyLoadImage } from 'react-lazy-load-image-component';
-import ResumePNG from '../images/Dev_Resume.png'
-import ResumePDF from '../images/Dev_Resume.pdf'
+import ResumeJPG from '../images/DevResume.jpg'
+import ResumePDF from '../images/DevResume.pdf'
 
 function Resume() {
 
@@ -9,7 +9,7 @@ function Resume() {
             <h4 className="heading-center">Resume</h4>
             <LazyLoadImage
                 className='resume-container'
-                src={ResumePNG}
+                src={ResumeJPG}
                 alt="Resume" />
             <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
                 <a
