@@ -132,6 +132,10 @@ img {
   -moz-border-radius: 50%;
 }
 
+.about-article {
+  align-items: center;
+}
+
 blockquote {
   color: #fff;
 }

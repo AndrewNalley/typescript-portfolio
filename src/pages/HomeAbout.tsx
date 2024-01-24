@@ -6,7 +6,7 @@ function HomeAbout() {
     return (
         <section className="container" id="about-me">
             <h4 className="heading-center">About Me</h4>
-            <article className="grid">
+            <article className="grid about-article">
                 <div id="img-div">
                     <LazyLoadImage
                     className='headshot'
