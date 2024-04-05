@@ -7,7 +7,7 @@ import employeeTracker from '../images/employee-tracker-photo.png'
 import weatherDashboard from '../images/weather-dashboard.png'
 import pokemonGame from '../images/pokemon-game.png'
 import logoMaker from '../images/logo-maker.png'
-import noteTaker from '../images/note-taker.png'
+import mortons from '../images/mortons.png'
 import portfolioPhoto from '../images/portfolio.png'
 const proj1Link = 'https://github.com/AndrewNalley/clarion-portal'
 const proj2Link = 'https://whispering-crag-58704-755d34513186.herokuapp.com/'
@@ -15,7 +15,7 @@ const proj3Link = 'https://github.com/AndrewNalley/employee-tracker'
 const proj4Link = 'https://andrewnalley.github.io/weather-dashboard/'
 const proj5Link = 'https://2meng.github.io/Whos-that-pokemon/'
 const proj6Link = 'https://github.com/AndrewNalley/logo-maker'
-const proj7Link = 'https://aqueous-springs-29735-51eb1397bb8e.herokuapp.com/'
+const proj7Link = 'https://mortonsmementos.com'
 const proj8Link = 'https://github.com/AndrewNalley/typescript-portfolio'
 
 
@@ -31,7 +31,7 @@ function Portfolio() {
                         effect='blur'
                         src={frenchHorn} 
                         alt="dreamscape" />
-                    <h3>Student Database Portal for Music Teacher</h3>
+                    <h3>Student database portal for music studio</h3>
                 </a>
                 <a id='proj-2' href={proj2Link}>
                     
@@ -40,7 +40,7 @@ function Portfolio() {
                         effect='blur'
                         src={dreamscape} 
                         alt="dreamscape" />
-                    <h3>Create calming and inspirational environments</h3>
+                    <h3>Create calming and inspirational environments 😌</h3>
                 </a>
                 <a id='proj-3' href={proj3Link}>
                   
@@ -67,7 +67,7 @@ function Portfolio() {
                     effect='blur' 
                     src={pokemonGame} 
                     alt='pokemon-game' />
-                    <h3>Test your pokémon knowledge!</h3>
+                    <h3>Test your Pokémon knowledge!</h3>
                 </a>
                 <a id='proj-6' href={proj6Link}>
                     <LazyLoadImage 
@@ -81,9 +81,9 @@ function Portfolio() {
                     <LazyLoadImage 
                     className='proj-photo' 
                     effect='blur' 
-                    src={noteTaker} 
-                    alt='note-taker' />
-                    <h3>Use to write and save notes</h3>
+                    src={mortons} 
+                    alt='mortons mementos' />
+                    <h3>Wedding flower artisan portfolio</h3>
                 </a>
                 <a id='proj-8' href={proj8Link}>
                     <LazyLoadImage 
