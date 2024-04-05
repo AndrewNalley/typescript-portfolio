@@ -1,6 +1,6 @@
 import { LazyLoadImage } from 'react-lazy-load-image-component';
-import ResumeJPG from '../images/DevResume.jpg'
 import ResumePDF from '../images/DevResume.pdf'
+import ResumeJPG from '../images/DevResume.jpg'
 
 function Resume() {
 
